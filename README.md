@@ -7,8 +7,11 @@ Today we are learning `git` and GitHub.
 ## My Poem
 
 Warnings are orange
+
 Errors are red
+
 Today I have codelab
+
 But I stayed in bed.
 
 
