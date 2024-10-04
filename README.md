@@ -14,4 +14,9 @@ Today I have codelab
 
 But I stayed in bed.
 
+# Oreo's Bio
+
+Oreo is my guide dog. She is an amazing black labrador. She is 2 years old and her favourite things are the park, chasing her toy, and eating.
+
+
 
